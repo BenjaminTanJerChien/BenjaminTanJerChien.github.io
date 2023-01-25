@@ -97,6 +97,10 @@ html, body {
     z-index: 1;
   }
   
+  .nav-item .dropdown-content a {
+    display: block;
+  }
+
   .nav-item:hover .dropdown-content {
     display: block;
   }
